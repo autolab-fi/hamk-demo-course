@@ -1,11 +1,11 @@
 {
-    "fullCourseName":"Mobile robot controlled by an ESP32 board on Micropython @ HAMK",
-    "shortCourseName":"Mobile robot on Micropython @ HAMK", 
-    "shortDescription":"Learn the basics of Micropython programming with a remote-controlled ESP32 robot. Control motors, read sensors, navigate along the track using a PID regulator.",
-    "fullDescription":"Learn the basics of Micropython programming with a remote-controlled ESP32 robot. Control motors and LEDs, read sensors and navigate along the track using a PID regulator......",
-    "imageSmall":"https://github.com/autolab-fi/lineRobot-micropython-course/blob/main/images/course-info/hamk-mobile-640-360.png?raw=true",
-    "imageBig":"https://github.com/autolab-fi/lineRobot-micropython-course/blob/main/images/course-info/hamk-mobile-1920-1080.png?raw=true",
-    "workload":"64 hours",
-    "requirements":"No previous programming or robotics knowledge is required.",
+    "fullCourseName": "HAMK Remote Mobile Robot Lab: ESP32 + MicroPython",
+    "shortCourseName": "HAMK Remote Mobile Robot Lab",
+    "shortDescription": "Pilot HAMK’s ESP32-based mobile robots remotely and learn MicroPython control, sensing, and autonomy in a 24/7 online lab.",
+    "fullDescription": "Step into HAMK’s always-on mobile robotics laboratory and drive a real ESP32-powered differential-drive robot over Wi‑Fi. The platform pairs MicroPython firmware with motor drivers, encoders, line sensors, and LEDs on a modular chassis that runs on a camera-monitored test track. You’ll learn to script movement, read sensors, stream telemetry, tune PID line-following, and deploy remote experiments confidently from anywhere.",
+    "imageSmall": "https://github.com/autolab-fi/lineRobot-micropython-course/blob/main/images/course-info/hamk-mobile-640-360.png?raw=true",
+    "imageBig": "https://github.com/autolab-fi/lineRobot-micropython-course/blob/main/images/course-info/hamk-mobile-1920-1080.png?raw=true",
+    "workload": "64 hours",
+    "requirements": "No previous programming or robotics knowledge is required.",
     "programmingLanguage": "python"
 }

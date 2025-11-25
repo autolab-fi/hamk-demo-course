@@ -90,7 +90,7 @@
   {
     "name": "Line Sensor Introduction",
     "description": "Understanding how IR line sensors work and detecting black lines using the Octoliner sensor array.",
-    "sn": 5,
+    "sn": 3,
     "str_id": "module_5",
     "lessons": [
       {

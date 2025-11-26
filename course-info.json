@@ -5,7 +5,7 @@
     "fullDescription": "Experience the limited access demo of the HAMK always on mobile robotics laboratory.\nDrive a real ESP32 powered differential drive robot over WiFi.\n\nThe platform uses MicroPython firmware with motor drivers, encoders, line sensors and LEDs on a modular chassis that runs on a camera monitored test track.\n\nYou will learn to script movement, read sensors, stream telemetry, tune PID line following and run remote experiments from anywhere.\n\nTo enroll, register in the app and join the course group with code 'JoinHAMK2026'.",
     "imageSmall": "https://github.com/autolab-fi/lineRobot-micropython-course/blob/main/images/course-info/hamk-mobile-640-360.png?raw=true",
     "imageBig": "https://github.com/autolab-fi/lineRobot-micropython-course/blob/main/images/course-info/hamk-mobile-1920-1080.png?raw=true",
-    "workload": "64 hours",
+    "workload": "10 hours",
     "requirements": "No previous programming or robotics knowledge is required.",
     "programmingLanguage": "python"
 }

@@ -11,6 +11,7 @@ def delta_points(point_0, point_1):
 target_points = {
     'test_drive': [(35, 50), (30, 0)],
     'license_to_drive': [(35, 50), (30, 0)],
+    'draw': [(50, 50), (30, 0)],
     'sandbox': [(50, 50), (30, 0)]
 }
 
@@ -21,6 +22,7 @@ target_points = {
 block_library_functions = {
     'test_drive': False,
     'license_to_drive': False,
+    'draw': False,
     'sandbox': False,
 }
 
@@ -123,8 +125,8 @@ def draw_trajectory(image, points, color, width, restore):
         prev_point = point
 
 
-def sandbox(robot, image, td: dict):
-    """Drawing trajectory at lesson Drawing"""
+def draw(robot, image, td: dict):
+    """Drawing trajectory for the Draw lesson"""
 
     # init result dictionary
     result = {
@@ -159,3 +161,9 @@ def sandbox(robot, image, td: dict):
         text = f"Message received: {msg}"
 
     return image, td, text, result
+
+
+def sandbox(robot, image, td: dict):
+    """Alias for legacy sandbox lesson identifier"""
+
+    return draw(robot, image, td)

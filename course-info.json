@@ -3,8 +3,8 @@
     "shortCourseName": "Demo course @ HAMK remote robot lab",
     "shortDescription": "Try the limited-access demo of HAMK’s 24/7 ESP32 robot lab and script MicroPython control, sensing, and autonomy remotely.",
     "fullDescription": "<p>Experience the limited access demo of the HAMK always on mobile robotics laboratory and drive a real ESP32 powered robot remotely. No prior robotics or programming knowledge is required. The course is beginner friendly and easy to start.</p><p>To enroll, register in the app and join the course group with code <u>JoinHAMK2026</u>. Access for new users is limited to a two week period and this demo stays active throughout December.</p><p>The platform uses MicroPython firmware on a robot with motor drivers encoders line sensors and LEDs on a chassis that runs on a camera monitored test track. You will learn to script movement read sensors stream telemetry tune PID line following and run remote experiments from anywhere.</p><p>We provide a community channel for questions support and sharing ideas during the course available on <a href=\"https://discord.gg/z4vKwVVhHM\" target=\"_blank\">Discord</a></p><p>This demo course is for practice only and no credits are awarded.</p>", 
-    "imageSmall": "https://github.com/autolab-fi/lineRobot-micropython-course/blob/main/images/course-info/hamk-mobile-640-360.png?raw=true",
-    "imageBig": "https://github.com/autolab-fi/lineRobot-micropython-course/blob/main/images/course-info/hamk-mobile-1920-1080.png?raw=true",
+    "imageSmall": "https://github.com/autolab-fi/lineRobot-micropython-course/blob/main/images/course-info/hamk-demo-small.png?raw=true",
+    "imageBig": "https://github.com/autolab-fi/lineRobot-micropython-course/blob/main/images/course-info/hamk-demo-big.jpg?raw=true",
     "workload": "10 hours",
     "requirements": "No previous programming or robotics knowledge is required.",
     "programmingLanguage": "python"

@@ -43,7 +43,9 @@ Before you begin coding, take a moment to familiarize yourself with the workspac
 rover.move_forward_seconds(3)
 ```
 2.Upload the program to the rover.(See the animation below: Write your code, press "Verify," and view the results.)
+
 ![Interface Layout](https://github.com/autolab-fi/hamk-demo-course/blob/main/images/module-1/upload.gif?raw=true)
+
 3.Observe the program execution results in the output and on the video feed.
 
 ## Conclusion

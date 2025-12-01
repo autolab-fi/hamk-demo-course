@@ -10,26 +10,33 @@ next: draw
 
 ## Objective
 
-Write a program with a specific sequence of movements.
+Write a program to make the robot drive a specific path.
 
 ## Introduction
 
-Now that you know how to control the robot in four directions, this lesson requires you to craft a sequence of commands to guide the robot along a predefined route.
+Now that you can move the robot in all four directions, it is time to combine these moves. In this lesson, you will write a code to guide the robot along a specific path.
 
 ## Theory
 
-Throughout the preceding lessons, you've been creating programs. Let's define what a program is: a program is an ordered sequence of commands. These commands are executed by a designated executor, which, in our case, is the robot.
+In previous lessons, you wrote code to make the robot move. Let's define what a **program** actually is.
 
-Each function within the **lineRobot** library executes a sequence of commands specific to that function. In the upcoming lessons, you'll advance to writing your own functions using the basic functions of the Python programming language.
+A program is simply a list of instructions. The robot reads your code from top to bottom, one line at a time. It finishes the first movement completely before starting the next one.
 
 ## Assignment
 
-Write a program for the robot to follow the route represented in the image.
+Write a program for the robot to follow the route shown in the image below.
 
 ![trajectory](https://github.com/autolab-fi/hamk-demo-course/blob/main/images/module-1/trajectory.png?raw=true)
 
-You can refresh your memory of the library functions by revisiting the previous lessons.
+**Cheat Sheet: Functions you know**
+
+Here are the commands you can use to build your program:
+
+* `robot.move_forward_distance(distance)`
+* `robot.turn_right()`
+
+*Remember: Replace `distance` with a number (e.g., 20 or 30).*
 
 ## Conclusion
 
-You are awesome! You've gained insight into the concept of a program and its executor. In the next lesson, you'll learn how to control the robot's speed.
+Great job! You now understand how to chain commands together to create a full program. In the next lesson, we will learn how to control the robot's speed.

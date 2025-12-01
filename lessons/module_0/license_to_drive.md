@@ -10,26 +10,37 @@ next: short_distance_race
 
 ## Objective
 
-Modify function parameter.
+Control the duration of the robot's movement by modifying parameters.
 
 ## Introduction
 
-In this lesson, we are granting you the driver's license. Today, you will be writing the program on your own without the instructor's help. However, first, let's cover some theory. We will discuss one of the most important concepts in programming: functions.
+In this lesson, we are granting you the driver's license. Today, you will be writing the program on your own without the instructor's help. However, first, let's look at how we control the robot's distance.
 
 ## Theory
 
-In the previous lesson, we used the **lineRobot** library, and we will continue using it in the future. It contains functions for controlling the robot, allowing us to easily set our robot in motion.
+Think back to the previous lesson. You used this line of code:
 
-**Functions** are named blocks of code that perform specific tasks. This means that when you invoke a function, it performs a specific action, such as multiplying two numbers or displaying a message on the console. Some functions have **parameters**; for example, the function **function(parameters)**. Parameters allow you to pass data into the function and work with it. In future lessons, you will write your own functions for controlling the robot.
+`robot.move_forward_seconds(3)`
 
-![verfification](https://github.com/autolab-fi/lineRobot-micropython-course/blob/main/images/module-1/function_example.png?raw=true)
+**What do you think the number `3` did?**
 
-We have already used the function **robot.move_forward_seconds(seconds)**. This function makes the robot move forward, and the parameter **seconds** sets the duration of the movement in seconds.
+If you guessed that it told the robot to move for **3 seconds**, you are correct!
+
+In programming, this number is called a **parameter**. Parameters allow us to pass specific instructions into a command.
+* If you change the parameter to `1`, the robot drives for a short time.
+* If you change the parameter to `10`, the robot drives for a long time.
+
+You don't need to rewrite the whole code to change the distance; you only need to change that one number.
 
 ## Assignment
 
-Write a program for the robot to make it drive straight for 5 seconds. You can refer back to the previous lesson to recall how to set the robot in motion. Good luck!
+Write a program for the robot to make it drive straight for **5 seconds**.
+
+1.  Import the library as (`from lineRobot import Robot`).
+2.  Initialize the robot (`robot = Robot()`).
+3.  Call the move function with the parameter set to 5.
+4.  Click **Verify** to upload your code.
 
 ## Conclusion
 
-Congratulations! You have written your own program for robot movement! In the next lesson, we will explore the robot's movement in different directions using the lineRobot.h library.
+Congratulations! You have successfully modified a parameter to control your robot. You now understand that by changing a single number, you can significantly change the outcome of your program. In the next lesson, we will explore the robot's movement in different directions.

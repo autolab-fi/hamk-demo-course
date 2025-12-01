@@ -22,6 +22,8 @@ Think back to the previous lesson. You used this line of code:
 
 `robot.move_forward_seconds(3)`
 
+The command `move_forward_seconds` is what we call a **function**. Think of a function as a specific skill or action that the robot knows how to perform.
+
 **What do you think the number `3` did?**
 
 If you guessed that it told the robot to move for **3 seconds**, you are correct!

@@ -57,7 +57,7 @@
         "str_id": "long_distance_race",
         "url": "https://raw.githubusercontent.com/autolab-fi/lineRobot-micropython-course/main/lessons/module_1/long_distance_race.md",
         "sn": 5,
-        "name": "Fruit Ninja",
+        "name": "Mineral Hunt",
         "description": "Writing a program with a sequence of commands to move along a trajectory depicted in the diagram.",
         "template": "# Write code here"
       }

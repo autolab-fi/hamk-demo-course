@@ -23,7 +23,7 @@
       },
       {
         "str_id": "license_to_drive",
-        "url": "https://raw.githubusercontent.com/autolab-fi/lineRobot-micropython-course/main/lessons/module_0/license_to_drive.md",
+        "url": "https://raw.githubusercontent.com/autolab-fi/hamk-demo-course/main/lessons/module_0/license_to_drive.md",
         "sn": 2,
         "name": "License to drive",
         "description": "Writing a simple program independently, similar to the previous lesson.",

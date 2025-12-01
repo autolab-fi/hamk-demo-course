@@ -24,9 +24,9 @@ Below, the image represents the possible directions of the robot's movement.
 
 ![robot_directions](https://github.com/autolab-fi/line-robot-curriculum/blob/main/images/module_1/directions.png?raw=true)
 
-**robot.turn_right()** - Function for turning right.
+**robot.turn_right()** - Function for turning right by 90°.
 
-**robot.turn_left()** - Function for turning left.
+**robot.turn_left()** - Function for turning left by 90°.
 
 As you can see, the turning functions don't require any parameters. It's sufficient to call them, and the robot will turn in place in the desired direction.
 

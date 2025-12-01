@@ -19,7 +19,7 @@
         "url": "https://raw.githubusercontent.com/autolab-fi/hamk-demo-course/main/lessons/module_0/test_drive.md",
         "sn": 1,
         "description": "Some introductory words on moving the robot forward using a library.",
-        "template": "# Paste code here"
+        "template": "from lineRobot import\nRobot robot = Robot()"
       },
       {
         "str_id": "license_to_drive",

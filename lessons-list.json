@@ -16,7 +16,7 @@
       {
         "str_id": "test_drive",
         "name": "Test drive",
-        "url": "https://raw.githubusercontent.com/autolab-fi/lineRobot-micropython-course/main/lessons/module_0/test_drive.md",
+        "url": "https://raw.githubusercontent.com/autolab-fi/hamk-demo-course/main/lessons/module_0/test_drive.md",
         "sn": 1,
         "description": "Some introductory words on moving the robot forward using a library.",
         "template": "# Paste code here"

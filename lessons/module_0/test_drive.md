@@ -6,7 +6,7 @@ previous: draw
 next: license_to_drive
 ---
 
-# Lesson 1. Test drive
+# Lesson 1.2 Test drive
 
 ## Objective
 

@@ -6,7 +6,7 @@ previous: maneuvering
 next: draw
 ---
 
-# Lesson 5. Long distance race
+# Lesson 2.3 Long distance race
 
 ## Objective
 

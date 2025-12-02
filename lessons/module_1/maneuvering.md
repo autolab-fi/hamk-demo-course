@@ -6,7 +6,7 @@ previous: short_distance_race
 next: long_distance_race
 ---
 
-# Lesson 4. Maneuvering
+# Lesson 2.2 Maneuvering
 
 ## Objective
 

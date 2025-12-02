@@ -6,7 +6,7 @@ previous: license_to_drive
 next: maneuvering
 ---
 
-# Lesson 3. Short distance race
+# Lesson 2.1 Short distance race
 
 ## Objective
 

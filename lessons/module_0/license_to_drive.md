@@ -6,7 +6,7 @@ previous: test_drive
 next: short_distance_race
 ---
 
-# Lesson 2. License to drive
+# Lesson 1.3 License to drive
 
 ## Objective
 

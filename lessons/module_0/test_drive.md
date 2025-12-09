@@ -40,7 +40,7 @@ Before you begin coding, take a moment to familiarize yourself with the workspac
 1. Copy the code provided below and paste it into the code editor (Yellow Box).
 
 ```python
-rover.move_forward_seconds(3)
+robot.move_forward_seconds(3)
 ```
 2.Upload the program to the rover.(See the animation below: Write your code, press "Verify," and view the results.)
 

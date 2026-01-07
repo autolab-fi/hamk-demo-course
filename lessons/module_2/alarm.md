@@ -6,7 +6,7 @@ previous: headlights
 next: None
 ---
 
-# Lesson 7: Robot's alarm
+# Lesson 3.2 Robot's alarm
 
 ## Lesson objective
 

@@ -6,7 +6,7 @@ previous: long_distance_race
 next: alarm
 ---
 
-# Lesson 6: Headlights
+# Lesson 3.1 Headlights
 
 ## Lesson objective
 
